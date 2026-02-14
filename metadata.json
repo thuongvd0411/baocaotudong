@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tổng hợp v4.5.2",
+  "description": "Ứng dụng hỗ trợ giáo viên và chuyên gia tự động thống kê và phân tích kết quả đánh giá ESDM Cấp độ 3 & 4 từ hình ảnh hoặc tài liệu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
